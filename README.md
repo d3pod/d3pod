@@ -6,7 +6,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: https://www.flaticon.com/br/icone-gratis/linkedin_174857
+[2.2]: https://image.flaticon.com/icons/svg/174/174857.svg
 
 [1]: https://twitter.com/LamegoDiogo
 [2]: https://www.linkedin.com/in/diogolamego
@@ -15,4 +15,3 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 ![](https://img.shields.io/badge/Editor-VisualCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
