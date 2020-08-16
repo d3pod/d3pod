@@ -11,3 +11,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 [1]: https://twitter.com/LamegoDiogo
 [2]: https://www.linkedin.com/in/diogolamego
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational??style=OS&logo=appveyor)
