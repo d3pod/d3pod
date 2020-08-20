@@ -2,7 +2,7 @@
 My name is Diogo Lamego and I'm a software and web developer.
 I'm from Portugal, living in Angola and working at AfriGIT.
 Big fan of tech in general and I'm an automotive enthusiast.
-In my free time I play video games like Fortnite and Minecraft, listen music and watch series or movies.
+In my free time I play video games like Fortnite and Minecraft, listen music and watch series and movies.
 
 #### References
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=red)
