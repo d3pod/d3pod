@@ -8,10 +8,15 @@ Portuguese developer based in Angola, passionate about programming and tech solu
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Editor-VisualCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=red)
+![.NET Badge](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
+![Blazor Badge](https://img.shields.io/badge/Code-Blazor-informational?style=flat&logo=blazor&logoColor=white&color=2bbc8a)
+![Razor Badge](https://img.shields.io/badge/Code-Razor-informational?style=flat&logo=razor&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=htmlt&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=red)
+![MySQL Badge](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![PostgreSQL Badge](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
 #### Knowledges in:
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
