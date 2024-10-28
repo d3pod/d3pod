@@ -1,8 +1,8 @@
-### Hi there 👋
-My name is Diogo Lamego and I'm a software and web developer.
-I'm from Portugal, living in Angola and working at AfriGIT.
-Big fan of tech in general and I'm an automotive enthusiast.
-In my free time I play video games like Fortnite and Minecraft, listen music and watch series and movies.
+### Olá, Hi there 👋
+Desenvolvedor português residente em Angola, com paixão por programação e soluções tecnológicas. Tenho experiência sólida em C#, HTML, CSS e JavaScript, além de conhecimentos adicionais em PHP, Java e Python. Especializo-me em desenvolvimento web, mas também exploro o universo desktop e mobile. Sempre à procura de novos desafios e oportunidades de aprendizado no mundo da programação.
+
+Portuguese developer based in Angola, passionate about programming and tech solutions. I have solid experience in C#, HTML, CSS, and JavaScript, along with additional knowledge in PHP, Java, and Python. I specialize in web development but also explore desktop and mobile environments. Always looking for new challenges and learning opportunities in the world of programming.
+
 
 #### References
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=red)
@@ -13,7 +13,7 @@ In my free time I play video games like Fortnite and Minecraft, listen music and
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tools-ASPNET-informational?style=flat&logo=aspnet&logoColor=white&color=red)
-![](https://img.shields.io/badge/Tools-Xamarin-informational?style=flat&logo=xamarin&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tools-Xamarin-informational?style=flat&logo=blazor&logoColor=white&color=red)
 
 #### Knowledges in:
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
