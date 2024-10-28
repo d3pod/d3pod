@@ -12,8 +12,6 @@ Portuguese developer based in Angola, passionate about programming and tech solu
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=htmlt&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=red)
-![](https://img.shields.io/badge/Tools-ASPNET-informational?style=flat&logo=aspnet&logoColor=white&color=red)
-![](https://img.shields.io/badge/Tools-Xamarin-informational?style=flat&logo=blazor&logoColor=white&color=red)
 
 #### Knowledges in:
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
